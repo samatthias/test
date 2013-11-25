@@ -6,6 +6,8 @@ public class Cool {
 		// That's a comment. And another change.
 		// Let's do another commit.
 		// another comment.
+		// 
 		System.out.println("Git is cool");
+		System.out.print("hey ho");
 	}
 }
